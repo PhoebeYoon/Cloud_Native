@@ -77,7 +77,7 @@ Matching logical concepts to their physical counterparts helps in understanding 
                    +---------------------------------------+
 
 ```
-
+Pod(파드)는 쿠버네티스에서 생성하고 관리할 수 있는 배포 가능한 가장 작은 컴퓨팅 단위   
 <img width="606" alt="스크린샷 2023-12-03 오후 12 00 51" src="https://github.com/PhoebeYoon/Cloud_Native/assets/48478079/3fca848c-67fa-4dba-b1b9-16a33be37b2b">
 
 
