@@ -24,7 +24,7 @@ Matching logical concepts to their physical counterparts helps in understanding 
  ```
                     [Physical]
                    +---------------------------------------+
-                   |             Data Center                |
+                   |             Data Center               |
                    |  +---------------------------------+  |
                    |  |     Physical Server or Host     |  |
                    |  |  +---------------------------+  |  |
@@ -76,10 +76,9 @@ Matching logical concepts to their physical counterparts helps in understanding 
                    |  +---------------------------------+  |
                    +---------------------------------------+
 
-
-
 ```
 
+<img width="606" alt="스크린샷 2023-12-03 오후 12 00 51" src="https://github.com/PhoebeYoon/Cloud_Native/assets/48478079/3fca848c-67fa-4dba-b1b9-16a33be37b2b">
 
 
 
