@@ -21,7 +21,7 @@ Matching logical concepts to their physical counterparts helps in understanding 
 
 
 ### This basic representation illustrates the relationship between logical concepts (like clusters, containers, and nodes) and their physical counterparts (data centers, servers, and Docker containers).
-
+ ```
                     [Physical]
                    +---------------------------------------+
                    |             Data Center                |
@@ -46,3 +46,41 @@ Matching logical concepts to their physical counterparts helps in understanding 
                    |  | +-------------+ |  | +--------------+ |
                    |  +-----------------+  +------------------+
                    +-----------------------------------------+
+
+```
+
+
+```
+                   +---------------------------------------+
+                   |             Data Center               |
+                   |  +---------------------------------+  |
+                   |  |    Physical Server or Host      |  |
+                   |  |  +---------------------------+  |  |
+                   |  |  |       Kubernetes Node     |  |  |
+                   |  |  | +-----------------------+ |  |  |
+                   |  |  | |   Worker Node         | |  |  |
+                   |  |  | | +-------------------+ | |  |  |
+                   |  |  | | |       Pod 1       | | |  |  |
+                   |  |  | | +-------------------+ | |  |  |
+                   |  |  | | +-------------------+ | |  |  |
+                   |  |  | | |       Pod 2       | | |  |  |
+                   |  |  | | +-------------------+ | |  |  |
+                   |  |  | +-----------------------+ |  |  |
+                   |  |  | +-----------------------+ |  |  |
+                   |  |  | |    Manager Node       | |  |  |
+                   |  |  | | +-------------------+ | |  |  |
+                   |  |  | | |   Control Plane   | | |  |  |
+                   |  |  | | +-------------------+ | |  |  |
+                   |  |  | +-----------------------+ |  |  |
+                   |  |  +---------------------------+  |  |
+                   |  +---------------------------------+  |
+                   +---------------------------------------+
+
+
+
+```
+
+
+
+
+                   
