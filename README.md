@@ -83,4 +83,7 @@ Pod(파드)는 쿠버네티스에서 생성하고 관리할 수 있는 배포 �
 
 <img width="733" alt="스크린샷 2023-12-03 오후 1 08 19" src="https://github.com/PhoebeYoon/Cloud_Native/assets/48478079/57114ca6-ad77-48b6-a67a-d2b8ac47fae5">
 
-                   
+
+ 참조자료 : 첨부된 pdf 
+ 
+ 
