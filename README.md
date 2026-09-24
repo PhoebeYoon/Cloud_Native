@@ -38,7 +38,7 @@ Matching logical concepts to their physical counterparts helps in understanding 
                    |  |  +---------------------------+  |  |
                    |  +---------------------------------+  |
                    +---------------------------------------+
-                   |            Cluster (Local Concept)    |
+                   |            Cluster (Logical Concept)    |
                    |  +-----------------+  +---------------+
                    |  | Manager Node    |  | Worker Node   |
                    |  | +-------------+ |  | +-----------+ |
